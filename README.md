@@ -44,13 +44,6 @@ The goal is to make everyday electronics testing more accessible and portable wi
 
 ---
 
-## 🧪 Overview
-
-The **Portable Multi-Utility Test Instrument** is a compact, battery-powered electronics test platform designed to combine three essential laboratory instruments into one handheld device.
-
-The project integrates a dual-channel oscilloscope, a waveform function generator, and a digital multimeter into a menu-driven interface powered by an **STM32F411 and Raspberry Pi Pico**.
-
-The goal is to make everyday electronics testing more accessible and portable without sacrificing the measurement features that matter during circuit development and debugging.
 
 ## ✨ Key Features
 
