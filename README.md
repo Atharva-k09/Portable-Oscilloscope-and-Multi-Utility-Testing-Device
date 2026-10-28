@@ -1,14 +1,46 @@
+
+<div align="center">
+
 # ⚡ Portable Multi-Utility Test Instrument
 
-<p align="center">
-  <strong>A pocket-sized electronics lab. Three instruments. One portable device.</strong>
-  <br/>
-  <em>Oscilloscope · Function Generator · Digital Multimeter</em>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/PROJECT-BE%20FINAL%20YEAR-00D9FF?style=for-the-badge&labelColor=10131C" />
-  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-A78BFA?style=for-the-badge&labelColor=10131C" />
-  <img src="https://img.shields.io/badge/POWER-BATTERY%20OPERATED-22C55E?style=for-the-badge&labelColor=10131C" />
-</p>
+### A pocket-sized electronics lab. Three instruments. One portable device.
+
+<em>Oscilloscope · Function Generator · Digital Multimeter</em>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PROJECT-BE%20FINAL%20YEAR-00D9FF?style=for-the-badge&labelColor=10131C" alt="BE Final Year Project"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-A78BFA?style=for-the-badge&labelColor=10131C" alt="In Development"/>
+<img src="https://img.shields.io/badge/POWER-BATTERY%20OPERATED-22C55E?style=for-the-badge&labelColor=10131C" alt="Battery Operated"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=500&color=00D9FF&center=true&vCenter=true&width=600&height=30&lines=CAPTURE+SIGNALS;GENERATE+WAVEFORMS;MEASURE+ELECTRONICS;ALL+IN+ONE+PORTABLE+DEVICE" alt="Animated project tagline"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ▰ SYSTEM OVERVIEW ▰
+
+<img src="https://img.shields.io/badge/OSCILLOSCOPE-2%20CHANNELS-00D9FF?style=flat-square&labelColor=10131C" alt="Two channel oscilloscope"/>
+<img src="https://img.shields.io/badge/BANDWIDTH-TARGET%2010%20MHz-A78BFA?style=flat-square&labelColor=10131C" alt="Target bandwidth 10 MHz"/>
+<img src="https://img.shields.io/badge/FUNCTION%20GEN-SINE%20%7C%20SQUARE%20%7C%20TRIANGLE-22C55E?style=flat-square&labelColor=10131C" alt="Function generator waveforms"/>
+<img src="https://img.shields.io/badge/DMM-V%20%7C%20A%20%7C%20Ω-F59E0B?style=flat-square&labelColor=10131C" alt="Multimeter functions"/>
+
+</div>
+
+---
+
+## 🧪 Overview
+
+The **Portable Multi-Utility Test Instrument** is a compact, battery-powered electronics test platform designed to combine three essential laboratory instruments into one handheld device.
+
+The project integrates a dual-channel oscilloscope, a waveform function generator, and a digital multimeter into a menu-driven interface powered by an **STM32F411 and Raspberry Pi Pico**.
+
+The goal is to make everyday electronics testing more accessible and portable without sacrificing the measurement features that matter during circuit development and debugging.
 
 ---
 
