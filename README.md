@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ⚡ Portable Multi-Utility Test Instrument
+# ⚡ Portable Oscilloscope and Multi-Utility Test Instrument
 
 ### A pocket-sized electronics lab. Three instruments. One portable device.
 
